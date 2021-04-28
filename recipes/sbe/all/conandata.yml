@@ -1,0 +1,4 @@
+sources:
+  "1.21.0":
+    url: https://github.com/real-logic/simple-binary-encoding/archive/refs/tags/1.21.0.tar.gz
+    sha256: "ee22a8c8ef273d5e16049051d4e5e3575ec8c1f92efde5cac85e5335767af85b"
